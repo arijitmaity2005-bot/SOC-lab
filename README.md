@@ -33,7 +33,7 @@ Build a practical SOC L1 home lab using Wazuh SIEM to monitor Windows and Linux 
 ### Tools Used
 ## 🛠️ Tools & Technologies
 
-- Wazuh SIEM
+- Wazuh Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - VMware Workstation Pro
 - Ubuntu Server
 - Ubuntu Linux
@@ -45,7 +45,6 @@ Build a practical SOC L1 home lab using Wazuh SIEM to monitor Windows and Linux 
 - File Integrity Monitoring (FIM)
 - Wazuh Active Response
 - Linux/Windows Firewall
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
